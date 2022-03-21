@@ -13,5 +13,9 @@
 ### REACT JS
     CRUD DE CLIENTES ( Listar, Crear, Otros... )
     DATA ESTADISTICA ( Promedio por Edad, ...otros )
+    
+### DESPLIEGUE - HEROKU
+    Frontend: https://mdpfrontend.herokuapp.com/
+    Backend: https://mdpbackend.herokuapp.com/api/client/
 
 -- Jair Arteaga
