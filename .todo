@@ -1,0 +1,10 @@
+=================
+Reto NodeJS
+=================
+
+* Crear Api Rest con NodeJs y Express
+* BD Relacional (MYSQL, POSTGRESQL, SQLITE)...
+* API #1: Crear un cliente: ( Nombre, Apellido, Fecha de Nacimiento )
+* API #2: Promediar edad de clientes
+* API #3: Listar clientes
+* Despliegue de aplicativo
